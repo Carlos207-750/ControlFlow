@@ -1,3 +1,5 @@
+"use strict";
+
 function getDayWithLoop(day) {
     const jours = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"];
 

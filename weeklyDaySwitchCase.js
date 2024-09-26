@@ -1,3 +1,5 @@
+"use strict";
+
 function getDaySwitch(day){
     switch (day) {
         case 1:
